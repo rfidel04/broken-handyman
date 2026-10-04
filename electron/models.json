@@ -1,0 +1,6 @@
+[
+  {"id":"gemini-3.1-flash-lite","name":"Gemini 3.1 Flash-Lite","label":"3.1 Flash-Lite · Budget","description":"Lowest standard text prices among these options; good for simple drafts and scripts."},
+  {"id":"gemini-3.5-flash-lite","name":"Gemini 3.5 Flash-Lite","label":"3.5 Flash-Lite · Budget","description":"Newer lightweight model for everyday writing and simple code."},
+  {"id":"gemini-3.6-flash","name":"Gemini 3.6 Flash","label":"3.6 Flash · Standard","description":"An alternative Flash model for more involved tasks."},
+  {"id":"gemini-3.8-flash","name":"Gemini 3.8 Flash","label":"3.8 Flash · Standard","description":"More capable Flash model; higher paid-tier prices than Flash-Lite."}
+]

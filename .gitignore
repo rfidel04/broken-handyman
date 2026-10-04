@@ -1,0 +1,11 @@
+node_modules/
+dist/
+release/
+.env*
+!.env.example
+.DS_Store
+
+# Local previews and generated user documents
+preview*.png
+polynomial_visualization.m
+corrected_matlab_script.m
